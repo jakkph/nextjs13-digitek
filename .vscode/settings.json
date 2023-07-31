@@ -1,0 +1,10 @@
+{
+  // Use `eslint` for vue, ts and js
+  "eslint.validate": ["javascript", "typescript", "tsx", "jsx"],
+  "files.associations": {
+    "*.css": "tailwindcss"
+  },
+  "editor.quickSuggestions": {
+    "strings": true
+  }
+}
